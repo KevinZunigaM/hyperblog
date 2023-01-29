@@ -2,6 +2,8 @@ Esta es la Historia de Kevin.
 
 Se reencanto con la Programación, se volvio a enamorar.
  
-Se creo un usuario de prueba
+Se creo un usuario de prueba.
+
+Hola soy Kevin de MacOS
 
 Codigo, nos enfocamos en AS.
